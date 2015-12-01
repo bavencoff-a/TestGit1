@@ -6,6 +6,7 @@ public class ProgPrin {
 		// TODO Auto-generated method stub
 		System.out.println("HELLO WORLD !");
 		System.out.println("HELLO DARLING !");
+		System.out.println("HELLO DARLING 2!");
 	}
 
 }
